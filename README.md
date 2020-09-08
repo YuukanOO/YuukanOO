@@ -1,4 +1,4 @@
-<img align="right" height="400" src="images/self.jpg">
+<img align="right" height="400" src="https://github.com/YuukanOO/YuukanOO/raw/master/images/self.jpg">
 
 ### Oh hello there 👋 ! It's me, [Julien Leicher](https://julien.leicher.me),
 
@@ -12,4 +12,4 @@ I'm a **freelance software engineer** living in France. Although I don't really 
 
 Beside all those shiny tech stuff ✨, I'm a big fan of **Domain Driven Design** and the **Clean architecture**.
 
-I ❤ open-source and I'm currently trying to contribute to an alternative, decentralized web using the [Solid](https://solidproject.org/) platform.
+I ❤ open-source and I'm currently [trying to contribute](https://github.com/solideal) to an alternative, decentralized web using the [Solid](https://solidproject.org/) platform.
