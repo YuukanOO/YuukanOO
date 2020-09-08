@@ -1,4 +1,4 @@
-<img align="right" height="400" src="https://github.com/YuukanOO/YuukanOO/raw/master/images/self.jpg">
+<img align="right" width="400" src="https://github.com/YuukanOO/YuukanOO/raw/master/images/self.jpg">
 
 ### Oh hello there 👋 ! It's me, [Julien Leicher](https://julien.leicher.me),
 
