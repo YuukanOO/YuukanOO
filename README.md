@@ -1,15 +1,44 @@
-<img align="right" width="400" src="https://github.com/YuukanOO/YuukanOO/raw/master/images/self.jpg">
+<h1 align="center">Hi there 👋, I'm <strong>Julien Leicher</strong>, a French <strong>Sustainable software craftsman</strong>.
+</h1>
 
-### Oh hello there 👋 ! It's me, [Julien Leicher](https://julien.leicher.me),
+<div align="center">
+  <a href="https://julien.leicher.me">personal website</a> • <a href="https://www.linkedin.com/in/julien-leicher-05372b27/">linkedin</a> • <a href="https://twitter.com/julien_leicher/">twitter</a>
+</div>
 
-I'm a **freelance software engineer** living in France. Although I don't really like the term **fullstack engineer**, that's what qualify me the best since I've worked on:
+<br />
 
-- Mobile apps with **React Native**,
-- Backend **GraphQL** and **REST** web services in **Typescript**, **C#**, **Go** and **PHP**,
-- Front end stuff with **React**, **VueJS** and a lot of traditional template based language (**Razor**, **Twig**, **Go template/html**)
-- a lot of libraries in **Python**, **Typescript/Javascript**
-- Desktop apps with **WPF**
+## What I do...
 
-Beside all those shiny tech stuff ✨, I'm a big fan of **Domain Driven Design** and the **Clean architecture**.
+I ❤ to build **maintainable** and **testable** softwares using well-known architectures such as the **Clean / Hexagonal Architecture** and **Domain Driven Design**.
 
-I ❤ open-source and I'm currently [trying to contribute](https://github.com/solideal) to an alternative, decentralized web using the [Solid](https://solidproject.org/) platform.
+I like to share my knowledge and try new things and usually share my thoughts on my personal website along the way.
+
+## With languages and tools...
+
+### ... I have already used in professional projects
+
+![dotnet](https://shields.io/badge/-dotnet-512BD4?logo=dotnet&style=flat&logoColor=white)
+![typescript](https://shields.io/badge/-typescript-3178C6?logo=typescript&style=flat&logoColor=white)
+![javascript](https://shields.io/badge/-javascript-F7DF1E?logo=javascript&style=flat&logoColor=black)
+![html5](https://shields.io/badge/-html-E34F26?logo=html5&style=flat&logoColor=white)
+![css3](https://shields.io/badge/-css-1572B6?logo=css3&style=flat&logoColor=white)
+![sql server](https://shields.io/badge/-sql%20server-CC2927?logo=microsoftsqlserver&style=flat&logoColor=white)
+![postgresql](https://shields.io/badge/-postgresql-4169E1?logo=postgresql&style=flat&logoColor=white)
+![react](https://shields.io/badge/-react-61DAFB?logo=react&style=flat&logoColor=black)
+![next.js](https://shields.io/badge/-next.js-black?logo=next.js&style=flat&logoColor=white)
+![react-native](https://shields.io/badge/-react--native-61DAFB?logo=react&style=flat&logoColor=black)
+![vue.js](https://shields.io/badge/-vue.js-4FC08D?logo=vue.js&style=flat&logoColor=white)
+![docker](https://shields.io/badge/-docker-2496ED?logo=docker&style=flat&logoColor=white)
+![git](https://shields.io/badge/-git-F05032?logo=git&style=flat&logoColor=white)
+
+### ... I like to use when doing opensource stuff
+
+![python](https://shields.io/badge/-python-3776AB?logo=python&style=flat&logoColor=white)
+![golang](https://shields.io/badge/-golang-00ADD8?logo=go&style=flat&logoColor=white)
+![sqlite](https://shields.io/badge/-sqlite-003B57?logo=sqlite&style=flat&logoColor=white)
+![tailwind](https://shields.io/badge/-tailwind-06B6D4?logo=tailwindcss&style=flat&logoColor=white)
+![windicss](https://shields.io/badge/-windicss-48B0F1?logo=windicss&style=flat&logoColor=white)
+
+### ... I'm currently toying with
+
+![rust](https://shields.io/badge/-rust-black?logo=rust&style=flat&logoColor=white)
