@@ -38,7 +38,4 @@ I like to share my knowledge and try new things and usually share my thoughts on
 ![sqlite](https://shields.io/badge/-sqlite-003B57?logo=sqlite&style=flat&logoColor=white)
 ![tailwind](https://shields.io/badge/-tailwind-06B6D4?logo=tailwindcss&style=flat&logoColor=white)
 ![windicss](https://shields.io/badge/-windicss-48B0F1?logo=windicss&style=flat&logoColor=white)
-
-### ... I'm currently toying with
-
-![rust](https://shields.io/badge/-rust-black?logo=rust&style=flat&logoColor=white)
+![sveltekit](https://shields.io/badge/-sveltekit-ff4700?logo=svelte&style=flat&logoColor=white)
