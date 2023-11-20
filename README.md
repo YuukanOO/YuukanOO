@@ -2,7 +2,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://julien.leicher.me">personal website</a> • <a href="https://www.linkedin.com/in/julien-leicher-05372b27/">linkedin</a> • <a href="https://twitter.com/julien_leicher/">twitter</a>
+  <a href="https://julien.leicher.me">personal website</a> • <a href="https://www.linkedin.com/in/julien-leicher-05372b27/">linkedin</a> • <a href="https://mamot.fr/@julien_leicher">mastodon</a>
 </div>
 
 <br />
